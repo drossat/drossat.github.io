@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Électricité de France (EDF R&D).
+subtitle: Électricité de France (EDF R&D)
 
 profile:
   align: right
