@@ -1,115 +1,160 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@Article{Multon2023,
+  author   = {S. Multon and D. Rossat and J. Verdier and D. Bouhjiti and H. Sogbossi and J. Baroth and A. Nehme and F. Dufour and H. Cagnon and M. Briffaut},
+  journal  = {Construction and Building Materials},
+  title    = {In-field measurement and numerical modelling of air leakage in concrete: From laboratory specimen to structural full-scale},
+  year     = {2023},
+  issn     = {0950-0618},
+  pages    = {131410},
+  volume   = {385},
+  abbr     = {CBM},
+  abstract = {This work estimates air leakage through concrete porosity for structures by using data obtained in field combined with stochastic finite element (SFE) modelling. For this purpose, a methodology is proposed to evaluate permeability under representative over-pressurization conditions based on in-field measurements under vacuum. This makes it possible to investigate the air leakage through the inner wall of a 1:3 scaled nuclear vessel named the VeRCoRs mock-up. Measurements are made for over 80 points scattered on the external face of the inner wall of the structure. Based on the data collected, a statistical analysis quantifies the spatial variation of permeability and contributes to the building of an SFE model of air leakage at the structural scale. Measured and predicted data are in good agreement on the service life of the structure. This shows the relevance of combining in-field measurements during an operational phase and the SFE modelling for better evaluation of the structural performance. The lessons learnt from the present work could be useful for the assessment of all structures with durability or mechanical issues that induce a continuous loss of tightness.},
+  doi      = {https://doi.org/10.1016/j.conbuildmat.2023.131410},
+  keywords = {Air leakage, Concrete structures, Permeability measurement, Stochastic analysis, VeRCoRs mock-up},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0950061823011236},
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@Article{Rossat2021,
+  author   = {D. Rossat and D. E.-M. Bouhjiti and J. Baroth and M. Briffaut and F. Dufour and A. Monteil and B. Masson and S. Michel-Ponnelle},
+  journal  = {Nuclear Engineering and Design},
+  title    = {A Bayesian strategy for forecasting the leakage rate of concrete containment buildings – Application to nuclear containment buildings},
+  year     = {2021},
+  issn     = {0029-5493},
+  pages    = {111184},
+  volume   = {378},
+  abbr     = {NED},
+  abstract = {The forecast of large concrete structures behavior such as Nuclear Containment Buildings (NCB) is a critical safety issue, whether for the structure itself or for its surrounding environment. Over the past few decades, complex finite element models have been developed for assessing the mechanical behavior and the leak tightness of large concrete structures. These models involve numerous parameters known with uncertainties, which importance could jeopardize the reliability of forecasts. Therefore, this contribution aims to present a weakly coupled Thermo-Hydro-Mechanical-Leakage methodology to forecast the evolution of dry air tightness of large concrete structures. The proposed approach is based on a Bayesian updating strategy aiming to reduce uncertainties on forecasts by combining information provided by both a physical model and in situ observations acquired up to date. The Bayesian strategy is coupled with a scale reduction method for ensuring applicability at the scale of large structures. The methodology is applied to a 1:3 scale NCB, in order to improve confidence level of leakage rate forecasts by taking advantage of monitoring measurements. The forecasted leakage rates are in good agreement with the measurements, and the proposed methodology enables to significantly reduce the uncertainty throughout the operational phase of the structure, even with a limited amount of monitoring data.},
+  doi      = {https://doi.org/10.1016/j.nucengdes.2021.111184},
+  keywords = {Thermo-hydro-mechanical modeling, Bayesian updating, Probabilistic modeling, Air leakage, Nuclear containment building, Polynomial Chaos expansions},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0029549321001369},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@Article{Rossat2022,
+  author   = {D. Rossat and J. Baroth and M. Briffaut and F. Dufour},
+  journal  = {Journal of Computational Physics},
+  title    = {Bayesian inversion using adaptive Polynomial Chaos Kriging within Subset Simulation},
+  year     = {2022},
+  issn     = {0021-9991},
+  pages    = {110986},
+  volume   = {455},
+  abbr     = {JCP},
+  abstract = {In this paper, we propose a Bayesian inversion approach combining adaptive Polynomial Chaos Kriging (PCK) surrogate models and a rare event estimation method called Subset Simulation (SuS). It is based on the recently introduced Bayesian Updating with Structural reliability (BUS) framework that enables to reformulate the classical Bayesian inference into a rare event estimation problem. In this context, the SuS method aims at drawing samples from the posterior distribution as well as estimating the model evidence, which is usually computationally intractable when considering classical MCMC approaches. The proposed approach involves the construction of a PCK surrogate model which provides both global and local approximations of the likelihood function, through the combination of Polynomial Chaos and Kriging surrogates. Furthermore, we propose an adaptive scheme for enriching the PCK surrogate throughout the SuS sampling procedure, in order to improve its accuracy near informative regions. The applicability and the efficiency of the proposed approach are assessed through several cases studies with increasing complexity. Results highlight that the proposed approach enables to accurately approximating posteriors with a limited amount of full model calls, even in the case of multi-modal posteriors, which are usually difficult to sample when using classical MCMC algorithms.},
+  doi      = {https://doi.org/10.1016/j.jcp.2022.110986},
+  keywords = {Bayesian inversion, Polynomial chaos, Kriging, Structural reliability methods, Subset simulation, Inverse problems},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0021999122000481},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
+@Article{Rossat2022a,
+  author   = {D. Rossat and J. Baroth and M. Briffaut and F. Dufour and B. Masson and A. Monteil and S. Michel-Ponnelle},
+  journal  = {Engineering Structures},
+  title    = {Bayesian updating for nuclear containment buildings using both mechanical and hydraulic monitoring data},
+  year     = {2022},
+  issn     = {0141-0296},
+  pages    = {114294},
+  volume   = {262},
+  abbr     = {ENGSTRUCT},
+  abstract = {Leak tightness of concrete containment structures such as Nuclear Containment Buildings (NCB) plays a key role in their serviceability and the safety of their surrounding environment. Under the action of operating loads and aging process, leak tightness may evolve over time, which makes numerical forecasting strategies a crucial tool for improving anticipation of overpassing threshold limits, as well as decision aid in the framework of containment structures maintenance. In this paper, a Bayesian updating framework for NCB under serviceability loads is presented. Based on the Bayesian inference process, it allows to incorporate both mechanical and hydraulic NCB monitoring data to numerical predictions in a probabilistic framework, for updating a prior into a posterior state of knowledge related to model parameters. For computational purposes, the approach uses a Transitional Markov Chain Monte Carlo (TMCMC) algorithm for estimating the posterior distribution of model parameters. In order to provide a suitable approach for engineering practice in terms of computational cost, sparse Polynomial Chaos Expansions (PCE) are used for accelerating the TMCMC algorithm. The information gain resulting from Bayesian updating is quantified using a measure taken from information theory, namely the Kullback–Leibler Divergence (KLD). The proposed approach is illustrated through an application to a 1:3 scale NCB. By extracting information from various auscultation data of the structure, the knowledge on uncertain parameters of a complex finite element model is updated throughout the structure operational phase, and new predictions of the structure’s strains and leakage responses are subsequently performed.},
+  doi      = {https://doi.org/10.1016/j.engstruct.2022.114294},
+  keywords = {Nuclear containment buildings, Bayesian updating, Transitional Markov Chain Monte Carlo, Polynomial chaos expansions, Thermo-hydro-mechanical modeling, Air leakage},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0141029622004175},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@Article{Rossat2023,
+  author   = {D. Rossat and J. Baroth and M. Briffaut and F. Dufour and A. Monteil and B. Masson and S. Michel-Ponnelle},
+  journal  = {Engineering Structures},
+  title    = {Bayesian inference with correction of model bias for Thermo-Hydro-Mechanical models of large concrete structures},
+  year     = {2023},
+  issn     = {0141-0296},
+  pages    = {115433},
+  volume   = {278},
+  abbr     = {ENGSTRUCT},
+  abstract = {Drying and creep are mainly driving the continuous strain evolution in time of aging large prestressed concrete structures, and may jeopardize the safety of their environment. Therefore, it is crucial to dispose of an accurate assessment of structures’ long-term strain level so as to evaluate their integrity. In the framework of probabilistic modeling of the delayed mechanical analysis of aging concrete structures, Bayesian inference allows to update uncertainties related to input parameters of computational models through the assimilation of noisy monitoring data. In this paper, a Bayesian inference methodology aiming at updating uncertain parameters of computational models for large concrete structures is proposed. This methodology combines a powerful surrogate modeling technique named PC-PCE (Principal Component Polynomial Chaos Expansions) with the so-called BUS (Bayesian Updating with Structural reliability methods) framework, in order to efficiently draw samples from posterior distributions for a sensibly reduced computational cost. In particular, the methodology is based on a framework to account for model uncertainties and biases, which are usually disregarded in the existing literature related to large concrete structures, and it enables correction predictions through Bayesian inference. The proposed approach is illustrated through an application to a large aging prestressed concrete structure, namely a 1:3 scale mock-up of a Nuclear Containment Building. In this context, a thermo-hydro-mechanical computational model with uncertain parameters is adopted to model the time evolution of strains of the structure. Results emphasize that the proposed approach performs Bayesian updating for a reduced computational cost. The proposed Bayesian inference approach also enables the identification of model biases, and correction of strain predictions.},
+  doi      = {https://doi.org/10.1016/j.engstruct.2022.115433},
+  keywords = {Bayesian inference, Uncertainty quantification, Thermo-Hydro-Mechanical modeling, Polynomial chaos expansions, Nuclear containment buildings},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0141029622015097},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@Article{Gupta2022,
+  author   = {Ritesh Gupta and Donatien Rossat and Xavier Dérobert and Julien Baroth and Matthieu Briffaut and Géraldine Villain and Frédéric Dufour},
+  journal  = {Engineering Structures},
+  title    = {Blind comparison of saturation ratio profiles on large RC structures by means of NDT and SFE—Application to the VeRCoRs mock-up},
+  year     = {2022},
+  issn     = {0141-0296},
+  pages    = {114057},
+  volume   = {258},
+  abbr     = {ENGSTRUCT},
+  abstract = {The prediction of large concrete structures behaviour such as bridges, dams and nuclear containment buildings (NCB) is a vital issue regarding the evaluation of the durability, safety and effect on the surrounding environment. In this work, experimental and numerical estimations of the saturation ratio profiles in the VeRCoRs NCB mock-up structure are presented, and their blind comparison is discussed. Non-destructive testing (NDT) based capacitive measurements are processed to quantify the saturation ratio experimentally. Then, a weakly coupled thermo-hydric (TH) finite element model is presented within the serviceability state of VeRCoRs for the numerical counterpart. The uncertainty in the capacitive measurements and the constitutive parameters of the numerical model are highlighted as coming from the following three sources: (a) the natural randomness of the material properties and physical processes, (b) the limited knowledge of some input parameters in the mathematical model either obtained experimentally at the specimen scale and (c) empirically derived in the exploitation of the physical process. The influence of the uncertainty in the saturation ratio estimations is presented by error bars experimentally and is addressed by a stochastic finite element (SFE) study in the numerical work. Accounting for uncertainties in NDT and SFE measurements, the mean values of saturation ratio (reported in %) profile are forecasted up to 40% and 34% respectively, with standard deviation for both in the range of 3.5–4.5% in magnitude.},
+  doi      = {https://doi.org/10.1016/j.engstruct.2022.114057},
+  keywords = {Concrete structures, Saturation ratio, Spatial distribution, Non-destructive capacitive measurements, Stochastic finite element analysis, Uncertainty quantification},
+  url      = {https://www.sciencedirect.com/science/article/pii/S014102962200195X},
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Article{Rossat2023a,
+  author    = {D. Rossat and J. Baroth and M. Briffaut and F. Dufour and A. Monteil and B. Masson and S. Michel-Ponnelle},
+  journal   = {European Journal of Environmental and Civil Engineering},
+  title     = {Bayesian updating for predictions of delayed strains of large concrete structures: influence of prior distribution},
+  year      = {2023},
+  number    = {4},
+  pages     = {1763--1795},
+  volume    = {27},
+  abbr      = {EJECE},
+  doi       = {10.1080/19648189.2022.2095441},
+  eprint    = {https://doi.org/10.1080/19648189.2022.2095441},
+  publisher = {Taylor \& Francis},
+  url       = {https://doi.org/10.1080/19648189.2022.2095441},
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+@InProceedings{Rossat2024,
+  author    = {D. Rossat},
+  booktitle = {16ème Colloque National en Calcul des Structures (CSMA2024)},
+  title     = {Inférence Bayésienne pour la prévision du comportement Thermo-Hydro-Mécanique à long terme de grands ouvrages de confinement},
+  year      = {2024},
+  address   = {Presqu'île de Giens, France},
+  abbr      = {CSMA2024},
+  url       = {https://csma2024.sciencesconf.org/data/pages/booklet.pdf},
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@InProceedings{D.Rossat2022,
+  author    = {Rossat D., Baroth J., Briffaut M., Dufour F.},
+  booktitle = {25ème Congrès Français de Mécanique (CFM 2022)},
+  title     = {Bayesian inversion with optimal transport maps and Polynomial Chaos surrogates - Application to mechanical inverse problems},
+  year      = {2022},
+  address   = {Nantes, France},
+  abbr      = {CFM2022},
+  url       = {https://gem.ec-nantes.fr/cfm-2022/#:~:text=2 septembre 2022-,Congrès Français de Mécanique – Nantes – 29 août au 2 septembre,29 août au 2 septembre.},
 }
+
+@PhdThesis{Rossat2022b,
+  author      = {Rossat, Donatien},
+  school      = {Université Grenoble Alpes},
+  title       = {{Bayesian techniques for inverse uncertainty quantification for multi-physics models of large containment structures}},
+  year        = {2022},
+  month       = Oct,
+  type        = {Theses},
+  abbr        = {PhdThesis},
+  hal_id      = {tel-03854398},
+  hal_version = {v1},
+  keywords    = {Inverse problems ; Thermo-Hydro-Mechanical modeling ; Reliability analysis ; Uncertainty Quantification ; Civil Engineering ; Bayesian inference ; Thermo-Hydro-M{\'e}canique ; Analyse de fiabilit{\'e} ; Probl{\`e}mes inverses ; Quantification d'incertitudes ; G{\'e}nie Civil ; Inf{\'e}rence Bay{\'e}sienne},
+  pdf         = {https://theses.hal.science/tel-03854398v1/file/ROSSAT_2022_archivage.pdf},
+  url         = {https://theses.hal.science/tel-03854398},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
