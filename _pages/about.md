@@ -30,6 +30,6 @@ As a research engineer at EDF R&D (EDF Lab Paris Saclay), my work focuses on str
 
 **Follow**: 
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/donatien-rossat-94390a12a/)
-- <i class="ai ai-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Donatien-Rossat?ev=hdr_xprf)
+- <i class="ai ai-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Donatien-Rossat)
 - <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=8f3XOYsAAAAJ&hl=fr)
 - <i class="ai ai-orcid"></i> [ORCID](https://orcid.org/0000-0002-7484-4578)
