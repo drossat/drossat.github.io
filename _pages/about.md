@@ -29,8 +29,7 @@ As a research engineer at EDF R&D (EDF Lab Paris Saclay), my work focuses on str
 **Contact**: donatien.rossat (at) edf (dot) fr\\
 
 **Follow**: 
-<a href="https://www.linkedin.com/in/donatien-rossat-94390a12a/" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn </a>
-<a href="https://www.researchgate.net/profile/Donatien-Rossat?ev=hdr_xprf" title="ResearchGate">
-  <i class="ai ai-researchgate"></i> ResearchGate
-</a>&emsp;
-<a href="https://scholar.google.com/citations?user=8f3XOYsAAAAJ&hl=fr" title="Google Scholar"><i class="    ai ai-google-scholar"></i> Google Scholar </a>&emsp;
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/donatien-rossat-94390a12a/)
+- <i class="ai ai-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Donatien-Rossat?ev=hdr_xprf)
+- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=8f3XOYsAAAAJ&hl=fr)
+- <i class="ai ai-orcid"></i> [ORCID](https://orcid.org/0000-0002-7484-4578)
