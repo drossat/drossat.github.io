@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-bio",
+          title: "Bio",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bio/";
+          },
         },{id: "news-internship-offer-physics-informed-bayesian-inference-for-computational-mechanics",
           title: 'Internship offer - Physics-Informed Bayesian Inference for Computational Mechanics',
           description: "",
