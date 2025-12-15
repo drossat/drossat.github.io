@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 ---
+**[Applications for this position are closed, as the internship has been filled]**
 
 I am offering a Master’s (M2) internship position for the year 2026 within my team at EDF R&D (EDF Lab Paris-Saclay).
 
