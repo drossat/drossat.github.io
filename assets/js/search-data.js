@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/bio/";
           },
-        },{id: "news-internship-offer-physics-informed-bayesian-inference-for-computational-mechanics",
+        },{id: "news-internship-offer-identification-of-cracks-in-rotating-shafts-with-bayesian-inference",
+          title: 'Internship offer - Identification of cracks in rotating shafts with Bayesian inference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/internship2025-cracked_rotors/";
+            },},{id: "news-internship-offer-physics-informed-bayesian-inference-for-computational-mechanics",
           title: 'Internship offer - Physics-Informed Bayesian Inference for Computational Mechanics',
           description: "",
           section: "News",handler: () => {
