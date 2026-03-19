@@ -19,6 +19,7 @@ tightness of nuclear containment buildings*. Angers, France. 21 Sep. 2021.
 
 
 #### Other contributions in seminars or national conferences
+- **UQSay #99**. [Talk]([https://doi.org/10.13140/RG.2.2.13301.64486](https://www.uqsay.org/p/welcome.html)). *Information Geometry-based Robust Bayesian Analysis*. Online meeting. 7 May 2026.
 - **60th European Safety, Reliability & Data Association (ESReDA) Seminar**. [Talk](https://doi.org/10.13140/RG.2.2.13301.64486). [Slides]({{ site.baseurl }}/assets/pdf/slides_ESReDA2022_ROSSAT.pdf). *Bayesian updating and reliability analysis for nuclear containment buildings*. Grenoble, France. 4 May 2022.
 - **Journée GST Mécanique & Incertain**. [Talk](http://afm.asso.fr/Groupes-et-Commissions/Groupes-Scientifiques-et-Techniques/GST-04-M%C3%A9canique-et-Incertain#/148561-prsentation). [Slides]({{ site.baseurl }}/assets/pdf/slides_MI2022_ROSSAT.pdf). *Bayesian inversion using adaptive Polynomial Chaos Kriging within Subset Simulation*. Paris, France. 15 Apr. 2022.
 - **Meeting IMdR - GTR Sécurité et Sûreté des Structures**. [Talk](https://www.imdr.eu/offres/gestion/actus_818_34386-1/securite-et-surete-des-structures.html). [Slides]({{ site.baseurl }}/assets/pdf/slides_IMdR3S2022_ROSSAT.pdf). Online meeting. 22 Jan. 2022.
