@@ -14,6 +14,7 @@ tightness of nuclear containment buildings*. Angers, France. 21 Sep. 2021.
 
 
 #### Contributions in main national conferences
+- **17ème Colloque National en Calcul des Structures (CSMA2026)**. [Talk](https://csma2026.sciencesconf.org/). *Méthode probabiliste de localisation de fissures dans des rotors par inférence Bayésienne*. Presqu'île de Giens, France. May 2026.
 - **16ème Colloque National en Calcul des Structures (CSMA2024)**. [Talk](https://doi.org/10.13140/RG.2.2.36528.16645). [Slides]({{ site.baseurl }}/assets/pdf/slides_CSMA2024_ROSSAT.pdf). *Inférence Bayésienne pour la prévision du comportement Thermo-Hydro-Mécanique à long terme d'ouvrages de confinement*. Presqu'île de Giens, France. 15 May 2024.
 - **25ème Congrès Français de Mécanique (CFM2022)**. [Talk](https://doi.org/10.13140/RG.2.2.26723.41768). [Slides]({{ site.baseurl }}/assets/pdf/slides_CFM2022_ROSSAT.pdf). *Bayesian inversion with optimal transport maps and Polynomial Chaos surrogates - Application to mechanical inverse problems*. Nantes, France. 31 Aug. 2022.
 
