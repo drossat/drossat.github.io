@@ -40,8 +40,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/internship2026-pift/";
-            },},{id: "news-uqsay-seminar",
-          title: 'UQSay Seminar',
+            },},{id: "news-uqsay-seminar-99-information-geometry-based-robust-bayesian-analysis",
+          title: 'UQSay Seminar #99 - Information Geometry-based Robust Bayesian Analysis',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/uqsay99/";
