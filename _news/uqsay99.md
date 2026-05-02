@@ -19,4 +19,7 @@ These perturbations are constructed using the Fisher distance from information g
 
 The proposed approach is illustrated on Bayesian inverse problems of varying complexity. Results demonstrate its ability to identify parameters for which prior choices significantly impact inference outcomes, while remaining applicable to nonlinear and high-dimensional settings.
 
-![Preview]({{ site.baseurl }}/assets/img/uqsay99_poster.png)
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/uqsay99_poster.png" width="600">
+  <p><em>Figure: </em></p>
+</div>
