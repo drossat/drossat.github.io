@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UQSay Seminar #99 - Information Geometry-based Robust Bayesian Analysis"
-date: 2026-05-04 08:00:00
+date: 2026-04-30 08:00:00
 inline: false
 related_posts: false
 ---
