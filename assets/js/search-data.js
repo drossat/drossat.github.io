@@ -40,6 +40,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/internship2026-pift/";
+            },},{id: "news-uqsay-seminar",
+          title: 'UQSay Seminar',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/uqsay99/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
