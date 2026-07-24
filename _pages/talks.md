@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 #### Contributions in international conferences
-- **17th World Congress on Computational Mechanics / 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)**. [Talk](https://wccm-eccomas2026.org/event/contribution/91bb35d7-ee57-11f0-b205-000c29ddfc0c). [Slides]({{ site.baseurl }}/assets/pdf/slides_WCCM-ECCOMAS2026_DR.pdf). *Robust Bayesian Analysis with Information Geometry and Riemannian Optimization - Application to Nonlinear Dynamics*. Munich, Germany. 22 Jul. 2026.
+- **17th World Congress on Computational Mechanics - 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)**. [Talk](https://wccm-eccomas2026.org/event/contribution/91bb35d7-ee57-11f0-b205-000c29ddfc0c). [Slides]({{ site.baseurl }}/assets/pdf/slides_WCCM-ECCOMAS2026_DR.pdf). *Robust Bayesian Analysis with Information Geometry and Riemannian Optimization - Application to Nonlinear Dynamics*. Munich, Germany. 22 Jul. 2026.
 - **11th International Conference on Sensitivity Analysis of Model Output (SAMO2025)**. [Talk](https://doi.org/10.13140/RG.2.2.18765.76006). [Slides]({{ site.baseurl }}/assets/pdf/slides_SAMO2025_ROSSAT.pdf). *Robust Bayesian Analysis with Information Geometry and Perturbed-Law based sensitivity Indices*. Grenoble, France. 25 Apr. 2025.
 - **31st European Safety and Reliability Conference (ESREL21)**. [Talk](https://doi.org/10.3850/978-981-18-2016-8_216-cd). [Slides]({{ site.baseurl }}/assets/pdf/slides_ESREL2021_ROSSAT.pdf). *Probabilistic modeling in a Bayesian framework of leak
 tightness of nuclear containment buildings*. Angers, France. 21 Sep. 2021.
