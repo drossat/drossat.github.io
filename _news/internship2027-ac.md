@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship offer - Uncertainty Quantification for the simulation of the dynamic behavior of fuel assemblies
+title: Internship offer - UQ for the numerical simulation of the dynamic behavior of fuel assemblies
 date: 2026-10-16 11:35:00
 inline: false
 related_posts: false
