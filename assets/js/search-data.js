@@ -45,8 +45,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/uqsay99/";
-            },},{id: "news-internship-offer-uncertainty-quantification-and-numerical-simulation-of-the-dynamic-behavior-of-fuel-assemblies",
-          title: 'Internship offer - Uncertainty Quantification and numerical simulation of the dynamic behavior of...',
+            },},{id: "news-internship-offer-uq-and-numerical-simulation-of-the-dynamic-behavior-of-fuel-assemblies",
+          title: 'Internship offer - UQ and numerical simulation of the dynamic behavior of fuel...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/internship2027-ac/";
