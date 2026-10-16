@@ -45,6 +45,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/uqsay99/";
+            },},{id: "news-internship-offer-uncertainty-quantification-and-numerical-simulation-of-the-dynamic-behavior-of-fuel-assemblies",
+          title: 'Internship offer - Uncertainty Quantification and numerical simulation of the dynamic behavior of...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/internship2027-ac/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
