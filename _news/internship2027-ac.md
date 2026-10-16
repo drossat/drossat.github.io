@@ -7,7 +7,6 @@ related_posts: false
 ---
 
 ---
-
 I am offering a Master’s (M2) internship position for the year 2027 within my team at EDF R&D (EDF Lab Paris-Saclay).
 
 The internship focuses on uncertainty quantification in the numerical simulation of the mechanical behaviour of nuclear reactor fuel assemblies subjected to dynamic loading.
